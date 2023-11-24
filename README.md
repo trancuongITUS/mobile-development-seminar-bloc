@@ -1,0 +1,1 @@
+# mobile-development-seminar-bloc
